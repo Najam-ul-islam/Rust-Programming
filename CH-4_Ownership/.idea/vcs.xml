@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/function_ownership" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/function_return_ownership" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multi_values_tuple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mutable_references" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reference_borrow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/string_slice_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/string_slices" vcs="Git" />
+  </component>
+</project>

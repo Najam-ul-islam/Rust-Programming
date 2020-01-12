@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/struct_basic/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/struct_basics_1/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/struct_function/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/struct_field_init_shorthand/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97df4155-1731-40bc-bdd3-69437be8f9ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/struct_basic/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_basics_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_basics_1/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_basics_1/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_basics_1/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_field_init_shorthand/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_field_init_shorthand/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_field_init_shorthand/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_field_init_shorthand/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_function/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_function/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_function/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct_function/src/main.rs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/struct_field_init_shorthand" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gxwfjLYX" />
+  </component>
+  <component name="ProjectId" id="1UzAFshVejAppQRf89DQ5UtT0Fd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assignment_6" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run struct_field_init_shorthand" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package struct_field_init_shorthand --bin struct_field_init_shorthand" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/struct_field_init_shorthand" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Run struct_field_init_shorthand" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97df4155-1731-40bc-bdd3-69437be8f9ca" name="Default Changelist" comment="" />
+      <created>1576348949130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576348949130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

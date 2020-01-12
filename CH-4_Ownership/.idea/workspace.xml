@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/reference_borrow/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/function_ownership/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/function_return_ownership/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/multi_values_tuple/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/mutable_references/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/slices/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/string_slices/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/string_slice_1/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3291e60d-dd28-4d03-abdc-a25910e27c33" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/function_ownership/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_ownership/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_ownership/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_ownership/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_return_ownership/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_return_ownership/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_return_ownership/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_return_ownership/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_values_tuple/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_values_tuple/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_values_tuple/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi_values_tuple/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mutable_references/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mutable_references/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mutable_references/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mutable_references/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slices/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slices/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slices/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slices/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_slice_1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_slice_1/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_slice_1/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_slice_1/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_slices/Cargo.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/string_slice_1" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="HiFChVnV" />
+  </component>
+  <component name="ProjectId" id="1UvhtB3JnwrcEbp4dxJEtktQTw8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CH-5_Structure" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="cargo run" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/reference_borrow" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3291e60d-dd28-4d03-abdc-a25910e27c33" name="Default Changelist" comment="" />
+      <created>1576243188316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576243188316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

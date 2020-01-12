@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/reference_borrow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reference_borrow\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/reference_borrow\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/reference_borrow\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/function_ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function_ownership\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function_ownership\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/function_ownership\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/function_return_ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function_return_ownership\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function_return_ownership\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/function_return_ownership\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/multi_values_tuple/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/multi_values_tuple\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/multi_values_tuple\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/multi_values_tuple\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/mutable_references/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mutable_references\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mutable_references\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/mutable_references\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/slices\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/slices\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/slices\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/string_slices/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string_slices\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string_slices\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/string_slices\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/string_slice_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string_slice_1\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/string_slice_1\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/string_slice_1\benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/function_ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/function_return_ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/multi_values_tuple/target" />
+      <excludeFolder url="file://$MODULE_DIR$/mutable_references/target" />
+      <excludeFolder url="file://$MODULE_DIR$/reference_borrow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/slices/target" />
+      <excludeFolder url="file://$MODULE_DIR$/string_slice_1\target" />
+      <excludeFolder url="file://$MODULE_DIR$/string_slices/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

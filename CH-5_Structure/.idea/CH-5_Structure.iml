@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/struct_basic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_basic\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_basic\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_basic\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_basics_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_basics_1\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_basics_1\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_basics_1\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_function\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_function\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_function\benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_field_init_shorthand/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_field_init_shorthand\examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_field_init_shorthand\tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_field_init_shorthand\benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_basic/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_basics_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_field_init_shorthand/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_function/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
