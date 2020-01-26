@@ -1,0 +1,9 @@
+[package]
+name = "vectors"
+version = "0.1.0"
+authors = ["Muhammad Najam Ul Islam <26120402+Najam-ul-islam@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
