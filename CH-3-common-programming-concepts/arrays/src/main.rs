@@ -1,7 +1,7 @@
 use std::io;
 use std::cmp::Ordering;
 fn main() {
-    let _months:[u8;12] = [31,28,31,30,31,30,31,31,30,31,30,31];    
+    let _months:[u8;12] = [31,28,31,30,31,30,31,31,30,31,30,31];
     month();
     days();
 }
